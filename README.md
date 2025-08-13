@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithik Sharma</h1>
-<h3 align="center">A passionate frontend developer with a knack for crafting clean, responsive, and visually appealing web experiences. I love blending creativity with technology to deliver seamless user interfaces.</h3>
+<h3 align="center">A passionate full stack developer with a knack for crafting clean, responsive, and visually appealing web experiences. I love blending creativity with technology to deliver seamless user interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rit005&label=Profile%20views&color=0e75b6&style=flat" alt="rit005" /> </p>
 
